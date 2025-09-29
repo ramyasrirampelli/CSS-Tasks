@@ -1,29 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .container {
-  padding: 800px;
+  padding: 100px;
 }
 
 .child1 {
   display: inline-block;
-  width: 350px;
+  width: 400px;
   margin: 8px;
   vertical-align: top;
 }
 .child2 {
   display: inline-block;
-  width: 350px;
+  width: 400px;
   margin: 8px;
   vertical-align: top;
 }
 
 .child3 {
   display: inline-block;
- width: 350px;
+ width: 400px;
   margin: 8px;
   vertical-align: top;
 }
 .child4 {
   display: inline-block;
-  width: 350px;
+  width: 400px;
   margin: 8px;
   vertical-align: top;
 }
